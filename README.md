@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left"><img src="https://github.com/codeDamon/codeDamon/blob/main/gifs/wave.gif" width="30px">Hi, I'm Ashutosh</h1>
 
 <!--
 **codeDamon/codeDamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
