@@ -1,6 +1,14 @@
-<h1 align="left"><img src="https://github.com/codeDamon/codeDamon/blob/main/gifs/wave.gif" width="30px">Hi, I'm Ashutosh</h1>
+<p align="center">
+	<img src="https://github.com/codeDamon/codeDamon/blob/main/gifs/android.gif" alt="Hi!" width="120px">
+	<h2 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
+</p>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=codeDamon&show_icons=true&theme=dark&hide=stars&custom_title=My%20GitHub%20Stats" alt="Ashutosh's GitHub Stats">
+</p>
 
 <!--
+<h1 align="left"><img src="https://github.com/codeDamon/codeDamon/blob/main/gifs/wave.gif" width="30px">Hi, I'm Ashutosh</h1>
 **codeDamon/codeDamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
