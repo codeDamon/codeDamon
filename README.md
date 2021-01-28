@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/codeDamon/codeDamon/blob/main/gifs/android.gif" alt="Hi!" width="120px">
+	<img border-radius: 50%; src="https://github.com/codeDamon/codeDamon/blob/main/gifs/android.gif" alt="Hi!" width="120px">
 	<h2 align="center">𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
 </p>
 
