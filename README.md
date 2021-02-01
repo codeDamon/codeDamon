@@ -30,7 +30,7 @@
     <!-- Git -->
     <img src="https://github.com/codeDamon/codeDamon/blob/main/images/git-tool.png" alt="git" width="40" height="40"/>
     <!-- Github -->
-    <img src="https://github.com/codeDamon/codeDamon/blob/main/images/github-tool.svg" alt="github" width="40" height="40"/>
+    <img src="https://github.com/codeDamon/codeDamon/blob/main/images/github-tool.png" alt="github" width="40" height="40"/>
     <!-- Linux -->
     <img src="https://github.com/codeDamon/codeDamon/blob/main/images/linux-os.svg" alt="linux" width="40" height="40"/>
     <!-- Firebase -->
